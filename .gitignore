@@ -1,0 +1,15 @@
+# Ignore dataset and trained model
+data/
+model/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS system files
+.DS_Store
+
+# Virtual environments
+venv/
+.env
+
