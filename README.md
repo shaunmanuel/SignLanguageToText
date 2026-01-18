@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-<<<<<<< HEAD
+
 This project aims to bridge the communication gap between hearing-impaired individuals and others by converting hand sign gestures into text in real time. The system uses a webcam to capture hand movements, extracts hand landmarks using MediaPipe, and classifies gestures using a trained neural network.
 =======
 This project focuses on converting hand sign gestures into text in real time to help bridge the communication gap between hearing-impaired individuals and others. Using a webcam, the system captures hand movements, extracts hand landmarks, and classifies gestures using a trained neural network model.
@@ -14,7 +14,6 @@ The project involves end-to-end development including dataset creation, preproce
 
 ## ✨ Features
 
-<<<<<<< HEAD
 - Real-time hand gesture recognition
 - Letter-level sign language detection
 - Sentence formation using temporal smoothing
@@ -44,7 +43,7 @@ The project involves end-to-end development including dataset creation, preproce
 
 ---
 
-<<<<<<< HEAD
+
 ## ⚙️ How the System Works
 
 1. Webcam captures live video input  
@@ -70,7 +69,7 @@ The project involves end-to-end development including dataset creation, preproce
 ## 📊 Dataset Details
 
 - Custom dataset created using MediaPipe hand landmarks
-<<<<<<< HEAD
+
 - Each gesture consists of 63 numerical features
 - Dataset is manually balanced to avoid class bias
 - Current supported letters:
