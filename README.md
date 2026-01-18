@@ -8,7 +8,7 @@ This project aims to bridge the communication gap between hearing-impaired indiv
 This project focuses on converting hand sign gestures into text in real time to help bridge the communication gap between hearing-impaired individuals and others. Using a webcam, the system captures hand movements, extracts hand landmarks, and classifies gestures using a trained neural network model.
 
 The project involves end-to-end development including dataset creation, preprocessing, model training, real-time inference, and sentence formation.
->>>>>>> 390045e (Add detailed README documentation)
+
 
 ---
 
@@ -29,7 +29,7 @@ The project involves end-to-end development including dataset creation, preproce
 - Balanced dataset to improve classification accuracy
 - Extendable architecture for adding more letters and words
 - Lightweight and runs on standard hardware
->>>>>>> 390045e (Add detailed README documentation)
+
 
 ---
 
@@ -87,7 +87,7 @@ The project involves end-to-end development including dataset creation, preproce
   - **I**
 
 > Note: The dataset and trained model are intentionally excluded from this repository.
->>>>>>> 390045e (Add detailed README documentation)
+
 
 ---
 
@@ -108,4 +108,4 @@ python src/train_model.py
 ##4.Run live Prediction
 python src/live_prediction.py
 
->>>>>>> 390045e (Add detailed README documentation)
+
