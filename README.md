@@ -62,7 +62,7 @@ The project involves end-to-end development including dataset creation, preproce
 5. The model predicts the corresponding letter  
 6. Temporal smoothing stabilizes predictions  
 7. Letters are appended to form words and sentences  
->>>>>>> 390045e (Add detailed README documentation)
+
 
 ---
 
