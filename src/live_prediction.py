@@ -10,7 +10,7 @@ from collections import deque
 model = tf.keras.models.load_model("../model/gesture_model.h5")
 
 # Label mapping (must match training order)
-labels = ["A", "B", "C","H","I"]
+labels = ["A", "B", "C","H","I","D","E","F"]
 
 # ==============================
 # MEDIAPIPE HANDS SETUP
