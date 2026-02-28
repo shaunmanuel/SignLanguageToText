@@ -1,4 +1,4 @@
-# sign-recognition
+# sign-recognition (latest files working accurately livepred1.py and train_model2.py rest data collection script and other scripts (collect_data.py and rest are same) enjoy!!!!!
 
 # Sign Language to Text Conversion System
 
