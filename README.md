@@ -63,3 +63,7 @@ This project aims to bridge the communication gap between hearing-impaired indiv
 ```bash
 pip install -r requirements.txt
 (Create README.md)
+
+Live pred1.py
+train_model2.py
+
