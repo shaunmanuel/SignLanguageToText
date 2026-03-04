@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sign Language Translator</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<!-- Intro Animation -->
+<div id="intro">
+    <h1 class="typing">translator</h1>
+</div>
+
+<!-- Main App -->
+<div class="main-container">
+
+    <div class="card">
+
+        <div class="video-section">
+            <video id="video" autoplay playsinline></video>
+            <canvas id="canvas" style="display:none;"></canvas>
+        </div>
+
+        <div class="divider"></div>
+
+        <div class="prediction-section">
+            <div id="result">
+                Prediction: <span>--</span>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
